@@ -1,5 +1,9 @@
 # Chunk Norris - Text Splitter
-Effortlessly split your lengthy texts into manageable chunks with the kick of a button. Splits by characters or words in adjustable amounts.
+Effortlessly split your lengthy texts into manageable chunks with the kick of a button. 
+Splits by characters or words in adjustable amounts.
+
+[Live Demo](https://jamesalmeida.github.io/chunk-norris/)
+
 ![Chunk Norris](public/chunk-norris.jpeg)
 
 # Getting Started with Create React App
