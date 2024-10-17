@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chunk-norris/static/css/main.a4394c18.css",
+    "main.js": "/chunk-norris/static/js/main.52dc49d5.js",
+    "static/js/453.0ad52f4d.chunk.js": "/chunk-norris/static/js/453.0ad52f4d.chunk.js",
+    "index.html": "/chunk-norris/index.html",
+    "main.a4394c18.css.map": "/chunk-norris/static/css/main.a4394c18.css.map",
+    "main.52dc49d5.js.map": "/chunk-norris/static/js/main.52dc49d5.js.map",
+    "453.0ad52f4d.chunk.js.map": "/chunk-norris/static/js/453.0ad52f4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4394c18.css",
+    "static/js/main.52dc49d5.js"
+  ]
+}
