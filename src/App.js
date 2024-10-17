@@ -152,7 +152,7 @@ function TextChunker() {
 
   return (
     <div className="App">
-      <img className="chunk-norris-header" src={`chunk-norris-header.jpg`} alt="Chunk Norris Header"  />
+      <img className="chunk-norris-header" src={`${process.env.PUBLIC_URL}/chunk-norris-header.jpg`} alt="Chunk Norris Header"  />
       <p>Effortlessly split your lengthy texts into manageable <span className="bo">chunks</span> with the <span className="strikeout">click</span> kick of a button.</p>
       <div className="textarea-container">
         <textarea 
