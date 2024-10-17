@@ -7,9 +7,6 @@ Effortlessly split your lengthy texts into manageable chunks with the kick of a 
 - User-friendly interface
 - Instant results
 
-## Limitations:
-- There is a limit that's imposed by the maximum length of an array in Javascript (2^32 - 1, or 4,294,967,295). If you need to split larger texts, you can use the split by Words option with a smaller chunk size. If you have ideas for handling larger texts, please open an issue or submit a PR!
-
 Perfect for content creators, developers, and anyone working with large text blocks. Streamline your workflow and make text processing a breeze!
 
 [Live Demo](https://jamesalmeida.github.io/chunk-norris/)
@@ -63,6 +60,9 @@ Perfect for content creators, developers, and anyone working with large text blo
    ```
 
 4. Your application will be available at `https://yourusername.github.io/chunk-norris`
+
+## Limitations:
+- There is a limit that's imposed by the maximum length of an array in Javascript (2^32 - 1, or 4,294,967,295). If you need to split larger texts, you can use the split by Words option with a smaller chunk size. If you have ideas for handling larger texts, please open an issue or submit a PR!
 
 ## Contributing
 
